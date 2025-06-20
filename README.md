@@ -2,7 +2,7 @@
 
 Welcome to Byline CMS. We're new!
 
-We're hoping to build a devleoper-friendly, customer-friendly, AI-first headlesss CMS.
+We're hoping to build a developer-friendly, customer-friendly, AI-first headlesss CMS.
 
 Here's a no-frills FAQ.
 
@@ -10,12 +10,12 @@ Here's a no-frills FAQ.
 
 <details>
 <summary>1. Why are you doing this?</summary>
-We currently using Payload CMS - which is a great project, with a few caveats and one recent development. The caveats are that as of version 3.0 Payload CMS has become a technically complex project, in particular after its integration with Next.js (we like Next.js, but are just not sure about this decision by the Payload team). More importantly Payload CMS was just acquired by Figma. And so we felt there would be no harm (and maybe even some fun) in exploring an alternative while we try to understand more about what this means for the future of Payload.
+We currently using Payload CMS - which is a great project, with a few caveats and one recent development. One caveat is that as of version 3.0 Payload CMS has become a technically complex project, in particular after its integration with Next.js (we like Next.js, but are not sure about Payload's integration). More importantly Payload CMS was just acquired by Figma. And so we felt there would be no harm (and maybe even some fun) in exploring an alternative while we try to understand more about what this means for the future of Payload.
 </details>
 
 <details>
 <summary>2. Who are you?</summary>
-Pretty much nobody - at least not within the 'influence sphere'. We're an agency based in South East Asia - but we're also pretty sure you've never heard of us.
+Pretty much nobody - at least not within the 'influence sphere'. We're a couple of developers at an agency based in South East Asia - but we're also pretty sure you've never heard of us.
 </details>
 
 <details>
@@ -41,12 +41,12 @@ Probably not. We'd need to understand more, and we're just finding our way. What
 
 <details>
 <summary>7. What's here now?</summary>
-Not much. The embryo of a 'proof of concept' CMS - but there will be more soon.
+Not much: The embryo of a 'proof of concept' CMS - but there will be more soon.
 </details>
 
 <details>
 <summary>8. Will you fork Payload CMS?</summary>
-Absolutely not. There would be no point in taking on the complexity of the Payload CMS solution when it's the complexity of the project itself we'd like to avoid. 
+Absolutely not. There would be no point in taking on the complexity of Payload when it's the complexity of the project itself we'd like to avoid. 
 </details>
 
 ## What's Next?
