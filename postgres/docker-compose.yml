@@ -1,0 +1,21 @@
+name: foo-postgres
+
+services:
+  db:
+    image: postgres:latest
+    container_name: foo_postgres
+    environment:
+      POSTGRES_PASSWORD: test
+    ports:
+      - 5432:5432
+    volumes:
+      - type: bind
+        source: ./data
+        target: /var/lib/postgresql/data
+
+  adminer:
+    image: adminer
+    profiles:
+      - adminer
+    ports:
+      - 9000:8080

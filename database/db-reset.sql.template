@@ -1,0 +1,20 @@
+/*
+  POSTGRES script to drop and recreate the development database.
+  NOTE: Only do this if you are sure you have exported the latest configuration,
+  and know how to use the config_installer installation profile.
+*/
+
+DO $$
+  BEGIN
+    CREATE ROLE ${db_user} WITH LOGIN;
+  EXCEPTION
+    WHEN duplicate_object THEN
+      RAISE NOTICE 'role "${db_user}" already exists, skipping';
+  END;
+$$;
+
+ALTER ROLE ${db_user} WITH PASSWORD '${db_pass}';
+
+DROP DATABASE IF EXISTS ${db_name};
+
+CREATE DATABASE ${db_name} WITH OWNER ${db_user};
