@@ -2,7 +2,7 @@
 
 Welcome to Byline CMS. We're new!
 
-We're hoping to build a devleoper-friendly and customer-friendly headlesss CMS.
+We're hoping to build a devleoper-friendly, customer-friendly, AI-first headlesss CMS.
 
 Here's a no-frills FAQ.
 
@@ -10,12 +10,12 @@ Here's a no-frills FAQ.
 
 <details>
 <summary>1. Why are you doing this?</summary>
-We currently using Payload CMS - which was is a great project, with a few caveats and one recent development.The caveats are that as of version 3.0 Payload CMS has become a technically complex project, in particular after its integration with Next.js (we like Next.js, but are just not sure about this decision by the Payload team). More importantly Payload CMS was just acquired by Figma. And so we felt there would be no harm (and maybe even some fun) in exploring an alternative while we try to understand more about what this means for the future of Payload.
+We currently using Payload CMS - which is a great project, with a few caveats and one recent development. The caveats are that as of version 3.0 Payload CMS has become a technically complex project, in particular after its integration with Next.js (we like Next.js, but are just not sure about this decision by the Payload team). More importantly Payload CMS was just acquired by Figma. And so we felt there would be no harm (and maybe even some fun) in exploring an alternative while we try to understand more about what this means for the future of Payload.
 </details>
 
 <details>
 <summary>2. Who are you?</summary>
-Pretty much nobody - at least not withing the 'influence sphere'. We're an agency based in South East Asia - but we're also pretty sure you've never heard of us.
+Pretty much nobody - at least not within the 'influence sphere'. We're an agency based in South East Asia - but we're also pretty sure you've never heard of us.
 </details>
 
 <details>
@@ -51,8 +51,3 @@ Absolutely not. There would be no point in taking on the complexity of the Paylo
 
 ## What's Next?
 We need to find our feet, choose a copyright license, publish a roadmap, our values and mission statement, as well as settle on a governance structure.
-
-
-  
-
-
