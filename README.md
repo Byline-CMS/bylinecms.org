@@ -10,7 +10,7 @@ Here's a no-frills FAQ.
 
 <details>
 <summary>1. Why are you doing this?</summary>
-We currently using Payload CMS - which is a great project, with a few caveats and one recent development. One caveat is that as of version 3.0 Payload CMS has become a technically complex project, in particular after its integration with Next.js (we like Next.js, but are not sure about Payload's integration). More importantly Payload CMS was just acquired by Figma. And so we felt there would be no harm (and maybe even some fun) in exploring an alternative while we try to understand more about what this means for the future of Payload.
+We currently using Payload CMS - which is a great project, with a few caveats and one recent development. One caveat is that as of version 3.0 Payload CMS has become a technically complex project, in particular after its integration with Next.js (we like Next.js, but are not sure about Payload's integration). More importantly, Payload CMS was just acquired by Figma. And so we felt there would be no harm (and maybe even some fun) in exploring an alternative while we try to understand more about what this means for the future of Payload.
 </details>
 
 <details>
