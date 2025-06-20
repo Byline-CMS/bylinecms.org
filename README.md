@@ -49,5 +49,14 @@ Not much: The embryo of a 'proof of concept' CMS - but there will be more soon.
 Absolutely not. There would be no point in taking on the complexity of Payload when it's the complexity of the project itself we'd like to avoid. 
 </details>
 
+## Design Goals
+1. We'd like to create an extensible, plugin-based framework for our headless CMS that will allow users to easily create admin dashboards and serialization frameworks for front-end clients.
+
+2. We'd like to create a 'thin as possible' field API over [Drizzle](https://orm.drizzle.team/).
+
+3. It should be easy create rich text adapters for your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
+
+4. And more....
+
 ## What's Next?
 We need to find our feet, choose a copyright license, publish a roadmap, our values and mission statement, as well as settle on a governance structure.
