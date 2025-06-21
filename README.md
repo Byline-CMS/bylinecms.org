@@ -56,7 +56,7 @@ Absolutely not. There would be no point in taking on the complexity of Payload w
 
 4. We'd like it everything to be fast - like really fast, from Admin bundle compile times to API responses.
    
-5. We're keen to follow patterns of highly cohesive and loosely coupled design - benefits of which including a nice communication API for content updates and consumer cache invalidation strategies.
+5. We're keen to follow patterns of highly cohesive and loosely coupled design - the benefits of which would include a nice communication API for content updates and callbacks / webhooks for consumer cache invalidation strategies.
 
 6. For now, we'd like to create a 'thin' field API over [Drizzle](https://orm.drizzle.team/).
 
