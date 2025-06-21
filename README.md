@@ -52,11 +52,15 @@ Absolutely not. There would be no point in taking on the complexity of Payload w
 ## Design Goals
 1. We'd like to create an extensible, plugin-based framework for our headless CMS that will allow users to easily create admin dashboards and serialization frameworks for front-end clients.
 
-2. We'd like to create a 'thin as possible' field API over [Drizzle](https://orm.drizzle.team/) (to start with).
+2. We'd like it everything to be fast - like really fast, from compile times to API responses.
+   
+3. We're keen to follow patterns of highly cohesive and loosely coupled design - benefits of which including a nice communication API for content updates / consumer cache invalidation strategies.
 
-3. It should be easy create rich text adapters for your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
+4. For now, we'd like to create a 'thin' field API over [Drizzle](https://orm.drizzle.team/).
 
-4. And more....
+5. It should be easy create rich text adapters for your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
+
+6. And more....
 
 ## What's Next?
 We need to find our feet, choose a copyright license, publish a roadmap, our values and mission statement, as well as settle on a governance structure.
