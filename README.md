@@ -58,7 +58,7 @@ Absolutely not. There would be no point in taking on the complexity of Payload w
 
 4. For now, we'd like to create a 'thin' field API over [Drizzle](https://orm.drizzle.team/).
 
-5. It should be easy create rich text adapters for your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
+5. It should be easy create content editors with your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
 
 6. And more....
 
