@@ -52,9 +52,9 @@ Absolutely not. There would be no point in taking on the complexity of Payload w
 ## Design Goals
 1. We'd like to create an extensible, plugin-based framework for our headless CMS that will allow users to easily create admin dashboards and serialization frameworks for front-end clients.
    
-3. We'd like to offer the option of 'monolith deployments' - combined API / admin dashboard deployments within a front-end framework of choice, or fully isolated API server, Admin dashboard web app, and API-only consuming clients.
+3. We'd like to offer the option of 'monolith deployments' - combined API / admin dashboard deployments within a front-end framework of choice, or fully isolated API server, admin dashboard webapp, and API-only consuming clients.
 
-4. We'd like everything to be fast - like really fast, from Admin bundle compile times to API responses.
+4. We'd like everything to be fast - like really fast - from admin bundle compile times to API responses.
    
 5. We're keen to follow patterns of highly cohesive and loosely coupled design - the benefits of which would include a nice communication API for content updates and callbacks / webhooks for consumer cache invalidation strategies.
 
