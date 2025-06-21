@@ -60,7 +60,7 @@ Absolutely not. There would be no point in taking on the complexity of Payload w
 
 6. For now, we'd like to create a 'thin' field API over [Drizzle](https://orm.drizzle.team/).
 
-7. For our admin dashboards, it should be easy create content editors with your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
+7. For our admin dashboards, it should be easy to create content editors with your favorite editor, whether [CKEditor](https://ckeditor.com/), [Lexical](https://lexical.dev/), [TipTap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/) or other.
 
 8. And more....
 
